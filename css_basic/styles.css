@@ -1,31 +1,38 @@
-body main{
-    display:flex;
-}
-
-body{
+body {
+    display: flex;        
     flex-direction: column;
+    height: 100vh;
 }
 
-main{
+main {
+    display: flex;
     flex-direction: row;
+    flex: auto;
 }
 
-article{
-    flex:2;
-}
-
-aside{
-    flex:1;
+article {
+    flex: 2;
     overflow-y: auto;
 }
 
-header{
-    margin-bottom:2cm;
+aside {
+    flex: 1;                     
+    overflow-y: auto;
 }
 
-body header ul{
+
+header {
+    margin-bottom: 2cm;
+}
+
+body header ul {
     margin-top: 50px;
 }
-p{
-    padding:10px;
+
+p {
+    padding: 10px;
+}
+
+a {
+    padding: 2px;
 }
