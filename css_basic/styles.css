@@ -1,0 +1,31 @@
+body main{
+    display:flex;
+}
+
+body{
+    flex-direction: column;
+}
+
+main{
+    flex-direction: row;
+}
+
+article{
+    flex:2;
+}
+
+aside{
+    flex:1;
+    overflow-y: auto;
+}
+
+header{
+    margin-bottom:2cm;
+}
+
+body header ul{
+    margin-top: 50px;
+}
+p{
+    padding:10px;
+}
