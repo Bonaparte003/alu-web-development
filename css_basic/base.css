@@ -1,11 +1,6 @@
-/* Importing webfonts */
-/* (If you're learning CSS, you should disregard that) */
-
 @import url(https://fonts.googleapis.com/css?family=Yeseva+One);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,700italic,400italic);
 
-
-/* CSS reset rules */
 
 html, body {
 	height: 100%;
@@ -31,13 +26,14 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
 	line-height: 1;
+	min-width: 100%;
 }
 blockquote, q {
 	quotes: none;
@@ -53,7 +49,6 @@ table {
 }
 
 
-/* Fonts and colors */
 
 body {
 	font-family: 'Josefin Sans', serif;
@@ -62,8 +57,7 @@ body {
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
 }
-article {
-}
+
 header {
 	border-bottom: 1px solid rgb(221,221,221);
 	transition: border-bottom-color 1s ease;
