@@ -3,11 +3,11 @@
 SmileSchool is a website for providing tutorials on different types of smiles, featuring professionals in the field of smile performance. The website offers various sections such as professional profiles, popular tutorials, testimonials, and FAQs.
 ## Demo
 
-![image1](./src/picture1.png)
-![image2](./src/picture2.png)
-![image3](./src/picture3.png)
-![image4](./src/picture4.png)
-![image5](./src/picture5.png)
+![image1](./src/Picture1.png)
+![image2](./src/Picture2.png)
+![image3](./src/Picture3.png)
+![image4](./src/Picture4.png)
+![image5](./src/Picture5.png)
 
 ## Folder Structure
 - `./images/`: Contains all the images used in the website, including avatars, logos, and stars.
