@@ -1,12 +1,13 @@
 # SmileSchool Website
 # A project by ALU
 SmileSchool is a website for providing tutorials on different types of smiles, featuring professionals in the field of smile performance. The website offers various sections such as professional profiles, popular tutorials, testimonials, and FAQs.
+## Demo
 
-## Features
-- **Professional Profiles**: Learn from top professionals like Phillip Massey, Nannie Lawrence, and more.
-- **Popular Tutorials**: Explore smile tutorials such as Diagonal Smile, Sad Smile, Normal Smile, and Happy Smile.
-- **Free Membership**: Register for a free membership to access exclusive smile tutorials.
-- **FAQ Section**: Common questions about how SmileSchool works.
+![image1](./src/picture1.png)
+![image2](./src/picture2.png)
+![image3](./src/picture3.png)
+![image4](./src/picture4.png)
+![image5](./src/picture5.png)
 
 ## Folder Structure
 - `./images/`: Contains all the images used in the website, including avatars, logos, and stars.
