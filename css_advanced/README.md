@@ -3,13 +3,14 @@
 ## Description
 This project demonstrates advanced CSS techniques to create a modern, responsive web layout. It includes features such as flexbox, gradients, and custom fonts to enhance the visual appeal and usability of the web page.
 
-## Features
-- Responsive header with a fixed position and gradient background
-- Navigation bar with custom fonts and spacing
-- Logo with specified dimensions
-- Main content area with flexible layout
+## Demo
+![Page1](./src/img1.png)
+![Page2](./src/img2.png)
+![Page3](./src/img3.png)
+![Page4](./src/img4.png)
+![Page5](./src/img5.png)
 
-## Installation
+## Downloading
 1. Clone the repository:
     ```sh
     git clone https://github.com/Bonaparte003/css_advanced.git
