@@ -5,14 +5,10 @@ This project demonstrates advanced CSS techniques to create a modern, responsive
 
 ## Demo
 ![Page1](./src/img1.png)
-
 ![Page2](./src/img2.png)
-
 ![Page3](./src/img3.png)
-
-![Page4](./src/img1.png)
-
-![Page5](./src/img1.png)
+![Page4](./src/img4.png)
+![Page5](./src/img5.png)
 
 ## Downloading
 1. Clone the repository:
